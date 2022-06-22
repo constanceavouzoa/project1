@@ -1,0 +1,7 @@
+#!/bin/bash
+#inventory centos7
+#Author:constance
+lsblk
+free -m
+cat /etc/*release
+uname -r
